@@ -1,0 +1,1 @@
+VM options for windows: `-Dorg.lwjgl.opengl.Display.allowSoftwareOpenGL=false`
